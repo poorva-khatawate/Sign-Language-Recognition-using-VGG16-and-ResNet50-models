@@ -14,7 +14,7 @@ This project presents a detailed analysis and comparison of two prominent Convol
 - [Installation](#installation)
 - [Usage](#usage)
 - [Contributing](#contributing)
-- [License](#license)
+
 
 ## Background
 
